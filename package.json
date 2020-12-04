@@ -1,0 +1,56 @@
+{
+  "name": "the-team-tracker-api",
+  "version": "1.0.0",
+  "description": "The Team Tracker Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-dev": "nodemon server.js",
+    "build": "node bin/build.js",
+    "deploy": "gcloud app deploy prod.yaml --project=theteamtracker-api --quiet",
+    "qadeploy": "gcloud app deploy qa.yaml --project=theteamtracker-api-qa --quiet"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.x"
+  },
+  "engineStrict": true,
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "fs-extra": "^6.0.1",
+    "mocha": "^5.0.1",
+    "nodemon": "^1.14.11",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^2.4.3",
+    "@sendgrid/mail": "^6.3.1",
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "html2plaintext": "^2.0.1",
+    "jsonwebtoken": "^8.1.0",
+    "moment-timezone": "^0.5.16",
+    "multer": "^1.3.0",
+    "nodemailer": "^4.4.2",
+    "pg": "^7.4.1",
+    "sequelize": "^4.31.2",
+    "sharp": "^0.20.2",
+    "winston": "^3.0.0",
+    "winston-daily-rotate-file": "^3.2.1"
+  }
+}
