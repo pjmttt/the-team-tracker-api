@@ -1,0 +1,178 @@
+[
+	{
+		"positionName": "Lead Groomer",
+		"roles": [
+			100,
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Office Manager",
+		"roles": [
+			500,
+			100,
+			1000
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Maintenance",
+		"roles": [
+			900
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Trainee",
+		"roles": [
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Night Check",
+		"roles": [],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Lead",
+		"roles": [],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Front Runner",
+		"roles": [
+			100,
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			600,
+			500
+		]
+	},
+	{
+		"positionName": "Groomer ",
+		"roles": [],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Level 4-Back Runner",
+		"roles": [
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Level 2-Little Dogs",
+		"roles": [
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Level 1-Non-Social",
+		"roles": [],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Level 3-Social Side",
+		"roles": [
+			500
+		],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	},
+	{
+		"positionName": "Bather",
+		"roles": [],
+		"emailNotifications": [
+			500,
+			600
+		],
+		"textNotifications": [
+			500,
+			600
+		]
+	}
+]

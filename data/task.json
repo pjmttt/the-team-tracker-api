@@ -1,0 +1,1012 @@
+[
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Quality"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Proficency"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Priority"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Extra Services",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Maintenance",
+		"textColor": "#9ACD32"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Attendence"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Appearance"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Proficiency"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "MISC",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thoroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attendance"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Night Check",
+		"textColor": "#FFFF00"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "C and R Runs"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Meds"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Final Spray"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Quality Control Check"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Putting Naps and Lunches Out"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Running Dogs"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "End of Day Tasks"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Leadership"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Proficiency "
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Back Runner",
+		"textColor": "#000000"
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean under and around all tubs",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Hoses"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Buckets"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Poops"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Profiencey"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Food"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Non-Social PM",
+		"textColor": "#0A6B0D"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 2,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Feeding"
+			},
+			{
+				"sequence": 1,
+				"subtaskName": "Heating/AC"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Water"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Medication"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Dishes"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Wellness Checks"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Quality"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Cats ",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Ears"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Nails"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Finishing"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Quality"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Proficiency"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Details"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Communication"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Bather",
+		"textColor": "#0000FF"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Buckets"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thoroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Posted Video"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Communication"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Pool Party-Inventory",
+		"textColor": "#FA9C44"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Professional"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Meds"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Making safe Play Groups"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Poops"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Food"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Water"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Leadership"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Appearance/Hygiene"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 14,
+				"subtaskName": "Wellness Checks"
+			},
+			{
+				"sequence": 12,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 13,
+				"subtaskName": "Set Up"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Social AM",
+		"textColor": "#00FF00"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Appearance/Hygiene"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Phone"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Emails"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Orderly"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Proficiency"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Profesional"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 12,
+				"subtaskName": "Cat Meds"
+			},
+			{
+				"sequence": 13,
+				"subtaskName": "Cat Feeding"
+			},
+			{
+				"sequence": 13,
+				"subtaskName": "Cats PM Duties"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Front Desk",
+		"textColor": "#EE34D2"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Didn't post photos"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Didn't do"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Post Photos"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Didn't post photos"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Didn't do"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "1-on-1 times",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 2,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Professional"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Attendence"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Leadership"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Profiency"
+			},
+			{
+				"sequence": 1,
+				"subtaskName": "Appearance/Hyigene"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Notes"
+			},
+			{
+				"sequence": 11,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Groomer",
+		"textColor": "#652DC1"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Heating/AC"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Food"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Water"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Medication"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Proficiency"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Cat AM Duties"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Bathing"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Little Dogs",
+		"textColor": "#006A93"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Spraying"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Profiency"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Naps"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Rotations"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Awarness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Poops"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Feeding"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Special Needs Dogs"
+			},
+			{
+				"sequence": 13,
+				"subtaskName": "Rounds"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Non-Social AM",
+		"textColor": "#0A6B0D"
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 0,
+				"subtaskName": "Appearance/Hyigene"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Professional"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Leadership"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Closing Tasks"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Customer Service"
+			},
+			{
+				"sequence": 0,
+				"subtaskName": "Opening Tasks"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Lead",
+		"textColor": "#867200"
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "sweep and mop inside of barn",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "sweep and mop office",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Appearance/Hyigen"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Cleaning"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Emails"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Leadership"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Phone"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Profiency"
+			},
+			{
+				"sequence": 12,
+				"subtaskName": "Wellness Checks"
+			},
+			{
+				"sequence": 13,
+				"subtaskName": "Little Dogs PM Duties"
+			},
+			{
+				"sequence": 14,
+				"subtaskName": "Food"
+			},
+			{
+				"sequence": 15,
+				"subtaskName": "Meds"
+			},
+			{
+				"sequence": 7,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Thouroughness"
+			},
+			{
+				"sequence": 10,
+				"subtaskName": "Professional"
+			},
+			{
+				"sequence": 11,
+				"subtaskName": "Safety"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Front Runner",
+		"textColor": "#03BB85"
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean all windows and screens on groom shop",
+		"textColor": null
+	},
+	{
+		"difficulty": null,
+		"subtasks": [
+			{
+				"sequence": 1,
+				"subtaskName": "Communication"
+			},
+			{
+				"sequence": 2,
+				"subtaskName": "Attitude"
+			},
+			{
+				"sequence": 3,
+				"subtaskName": "Proficiency"
+			},
+			{
+				"sequence": 4,
+				"subtaskName": "Safety"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Team Work"
+			},
+			{
+				"sequence": 5,
+				"subtaskName": "Thoroughness"
+			},
+			{
+				"sequence": 6,
+				"subtaskName": "Wellness Checks"
+			},
+			{
+				"sequence": 8,
+				"subtaskName": "Little Dog PM Duties"
+			},
+			{
+				"sequence": 9,
+				"subtaskName": "Meds"
+			}
+		],
+		"taskType": 0,
+		"notifyAfter": 0,
+		"taskName": "Social PM",
+		"textColor": "#00FF00"
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean all windows and screens on office",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean barn fridge",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean cat room fridge",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean little dogs fridge",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean office fridge",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean out barn vacuum - bang out filter - let maintenance know if needs new filter",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean out cat room vacuum - bang out filter - let maintenance know if needs new filter",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean out groom shop vacuum - bang out filter - let maintenance know if needs new filter",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean out office vacuum - bang out filter - let maintenance know if needs new filter",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean spider webs of barn area and fences",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean spider webs off front areas - office, fences, gates",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "clean spider webs off groom area and late pick ups",
+		"textColor": null
+	},
+	{
+		"difficulty": 3,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "deep clean bathroom - toilet, mirror, floors, sinks, restock soaps",
+		"textColor": null
+	},
+	{
+		"difficulty": 3,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "deep clean drying room - walls, floors",
+		"textColor": null
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "deep clean self bather room -  walls, fan, tub, floors",
+		"textColor": null
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "deep clean tables and cabinets in groom area",
+		"textColor": null
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "deep clean walls in groom area",
+		"textColor": null
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "pick up hair behind late pick up kennels",
+		"textColor": null
+	},
+	{
+		"difficulty": 1,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "pick up leaves in little dogs",
+		"textColor": null
+	},
+	{
+		"difficulty": 2,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "Pull weeds in all yards",
+		"textColor": null
+	},
+	{
+		"difficulty": 3,
+		"subtasks": null,
+		"taskType": 1,
+		"notifyAfter": 10,
+		"taskName": "take out and spray all drying cages",
+		"textColor": null
+	}
+]

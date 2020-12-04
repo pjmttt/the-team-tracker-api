@@ -1,0 +1,24 @@
+[
+	{
+		"categoryName": "Kennel Supplies"
+	},
+	{
+		"categoryName": "Office Supplies",
+		"insertOnSubscribe": true
+	},
+	{
+		"categoryName": "Maintenance Supplies"
+	},
+	{
+		"categoryName": "Groom Shop"
+	},
+	{
+		"categoryName": "Staff First Aid"
+	},
+	{
+		"categoryName": "Animal First Aid"
+	},
+	{
+		"categoryName": "Apparel"
+	}
+]

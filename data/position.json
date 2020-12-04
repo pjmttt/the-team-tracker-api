@@ -1,0 +1,68 @@
+[
+	{
+		"textColor": null,
+		"positionName": "Lead Groomer"
+	},
+	{
+		"textColor": null,
+		"positionName": "Employee",
+		"insertOnSubscribe": true
+	},
+	{
+		"textColor": null,
+		"positionName": "Office Manager"
+	},
+	{
+		"textColor": "#8B8680",
+		"positionName": "Maintenance"
+	},
+	{
+		"textColor": "#5E4330",
+		"positionName": "Trainee"
+	},
+	{
+		"textColor": "#FF861F",
+		"positionName": "Night Check"
+	},
+	{
+		"textColor": "#867200",
+		"positionName": "Lead"
+	},
+	{
+		"textColor": "#EE34D2",
+		"positionName": "Front Desk"
+	},
+	{
+		"textColor": "#03BB85",
+		"positionName": "Front Runner"
+	},
+	{
+		"textColor": "#8FD8D8",
+		"positionName": "General Manager",
+		"insertOnSubscribe": true
+	},
+	{
+		"textColor": "#652DC1",
+		"positionName": "Groomer "
+	},
+	{
+		"textColor": "#000000",
+		"positionName": "Level 4-Back Runner"
+	},
+	{
+		"textColor": "#006A93",
+		"positionName": "Level 2-Little Dogs"
+	},
+	{
+		"textColor": "#0A6B0D",
+		"positionName": "Level 1-Non-Social"
+	},
+	{
+		"textColor": "#00FF00",
+		"positionName": "Level 3-Social Side"
+	},
+	{
+		"textColor": "#0000FF",
+		"positionName": "Bather"
+	}
+]

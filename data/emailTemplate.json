@@ -1,0 +1,142 @@
+[
+	{
+		"templateType": 0,
+		"body": "<h2>&quot;BUILDING TRUST THROUGH TEAM WORK EDUCATION AND SAFETY TO IMPROVE QUALITY OF LIFE THROUGH A FUN CONSISTENT ATMOSPHERE&quot;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&quot;CORE VALUES&quot;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp; TEAM WORK - EDUCATION - SAFETY - CONSISTENCY - TRUST</h2>\n\n<p><u>Your Daily Report:</u>&nbsp;This report reflects if your performance is staying consistant with our &quot;MISSION STATEMENT&quot; and our &quot;CORE VALUES&quot; which is esential for the safety and care of the pets we care for to ensure our team is building the trust of the community.</p>\n\n<p>&nbsp;</p>\n\n<p>[Entries]</p>\n\n<p>&nbsp;</p>\n",
+		"subject": "Here is your daily report for Lucky Dog Inc.",
+		"bodyText": "Your Daily Report:\nYou're Appreciated!\n\n[Entries]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 2,
+		"body": "<p>Hi,</p>\n\n<p>Click <a href=\"[Link]\">here</a> to change your password</p>\n\n<p>Thank you,</p>\n\n<p>The Team Tracker</p>\n",
+		"subject": "The Team Tracker - You have requested to change your password",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 3,
+		"body": "<p>Here&#39;s your maintenance request:</p>\n\n<p>[MaintenanceRequest]</p>\n",
+		"subject": "You have received a maintenance request",
+		"bodyText": "Dude this needs your attention!!\n\n[MaintenanceRequest]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 4,
+		"body": "<p>You have been invited to join TheTeamTracker. Click <a href=\"[Link]\">here</a> to join!</p>\n",
+		"subject": "You have been invited to join TheTeamTracker",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 5,
+		"body": "<p>A Time Off Request has been submitted:</p>\n\n<p>Start Date: [StartDate]</p>\n\n<p>End Date: [EndDate]</p>\n\n<p>Requested By: [Employee]</p>\n\n<p>Reason: [Reason]</p>\n\n<p>Thank you</p>\n",
+		"subject": "Time Off Request Submitted",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 6,
+		"body": "<p>Your time off request has been [Status] by [ApprovedDeniedBy] on [ApprovedDeniedDate]</p>\n",
+		"subject": "Your Time Off Request has been [Status]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 7,
+		"body": "<p>[Employee] has requested the following availability:</p>\n\n<p>[DayOfWeek]: [StartTime] - [EndTime]</p>\n",
+		"subject": "Availability request by [Employee]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 8,
+		"body": "<p>Your availability has been [Status] by [ApprovedDeniedBy] on [ApprovedDeniedDate]</p>\n",
+		"subject": "Your Availability has been [Status]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 9,
+		"body": "<p>Hi [Employee],</p>\n\n<p>Here is your schedule for [ScheduleDates]</p>\n\n<p>[Schedules]</p>\n\n<p>Thank you,</p>\n\n<p>The Team Tracker</p>\n",
+		"subject": "Here's your schedule for [ScheduleDates]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 10,
+		"body": "<p>Trade has been posted by&nbsp;[Employee]:</p>\n\n<p>[FromSchedule]</p>\n",
+		"subject": "Trade Posted",
+		"bodyText": "Trade has been posted by [Employee]:\n\n[FromSchedule]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 11,
+		"body": "<p>Trade Requested: [Employee]</p>\n\n<p>[FromSchedule]</p>\n\n<p>[ToSchedule]</p>\n",
+		"subject": "Trade Requested",
+		"bodyText": "Trade Requested: [Employee]\n\n[FromSchedule]\n\n[ToSchedule]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 12,
+		"body": "<p>Trade for [Schedule] has been [Status]</p>\n",
+		"subject": "Trade has been [Status]",
+		"bodyText": "Trade for [Schedule] has been [Status]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 13,
+		"body": "<p>Trade Requested: [Employee]</p>\n\n<p>[FromSchedule]</p>\n\n<p>[ToSchedule]</p>\n",
+		"subject": "Trade Requested",
+		"bodyText": "Trade Requested: [Employee]\n[FromSchedule]\n[ToSchedule]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 14,
+		"body": "<p>Trade Declined: [Employee]</p>\n\n<p>[FromSchedule]</p>\n\n<p>[ToSchedule]</p>\n",
+		"subject": "Trade Declined",
+		"bodyText": "Trade Declined: [Employee]\n[FromSchedule]\n[ToSchedule]",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 15,
+		"body": "<p>[Employee] has requested hours to be added:</p>\n\t\n\t<p>[Date]</p>\n\t\n\t<p>[ClockInTime]&nbsp;-&nbsp;[ClockOutTime]</p>\n\t\n\t<p>Thank you,</p>\n\t\n\t<p>The Team Tracker</p>\n",
+		"subject": "[Employee] has requested hours to be added",
+		"bodyText": "[Employee] has requested hours to be added:\n[Date]\n[ClockInTime] - [ClockOutTime]\n\nThank you,\n\nThe Team Tracker\n",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 16,
+		"body": "<p>[Employee] has clocked in late:</p>\n\t\n\t<p>[Date]</p>\n\t\n\t<p>[ClockInTime]</p>\n\n\t<p>[Schedule]</p>\n\t\n\t<p>Thank you,</p>\n\t\n\t<p>The Team Tracker</p>\n",
+		"subject": "[Employee] has clocked in late",
+		"bodyText": "[Employee] has clocked in late:\n[Date]\n[ClockInTime]\n[Schedule]\n\nThank you,\n\nThe Team Tracker\n",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 17,
+		"body": "<p>Your hours have been [Status]:</p>\n\t\n\t<p>[Date]</p>\n\t\n\t<p>[ClockInTime]&nbsp;-&nbsp;[ClockOutTime]</p>\n\t\n\t<p>Thank you,</p>\n\t\n\t<p>The Team Tracker</p>\n",
+		"subject": "Hours have been [Status]",
+		"bodyText": "Your hours have been [Status]:\n[Date]\n[ClockInTime] - [ClockOutTime]\n\nThank you,\n\nThe Team Tracker\n",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 18,
+		"body": "<p>The following inventory has dropped below minimum quantity:</p>\n\n<p>[InventoryItemName]</p>\n\n<p>In Stock: [QuantityOnHand]</p>\n\n<p>Min Qty: [MinimumQuantity]</p>\n\n<p>Thank you,</p>\n\n<p>The Team Tracker</p>\n",
+		"subject": "Inventory Needed - [InventoryItemName]",
+		"bodyText": "The following inventory has dropped below minimum quantity: \n[InventoryItemName]\nIn Stock: [QuantityOnHand]\nMin Qty: [MinimumQuantity]\n\nThank you,\n\nThe Team Tracker\n",
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 19,
+		"body": "<p>[Employee] has requested to delete the following availability:</p>\n\n<p>[DayOfWeek]: [StartTime] - [EndTime]</p>\n",
+		"subject": "Availability request by [Employee]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	},
+	{
+		"templateType": 20,
+		"body": "<p>Your availability delete request has been [Status] by [ApprovedDeniedBy] on [ApprovedDeniedDate]</p>\n",
+		"subject": "Your Availability delete request has been [Status]",
+		"bodyText": null,
+		"insertOnSubscribe": true
+	}
+]

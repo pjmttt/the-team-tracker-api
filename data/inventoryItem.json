@@ -1,0 +1,1434 @@
+[
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Office Printer Toner(Cyan) Brother TN221",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Styptic Powder",
+		"vendorName": "Amazon",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chris printer cyan 131 A",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tweezers",
+		"vendorName": "Walmart",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cowboy Magic (gallons)",
+		"vendorName": "Amazon",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Small Band Aids (Actual Band Aids)",
+		"vendorName": "Walmart",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 4
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "White out Tape",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Condolence Cards-Cats",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ear Cleaner",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Capstar- Green box",
+		"vendorName": "Pet Edge",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Vet Wraps",
+		"vendorName": "Pet Edge",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Baking Soda(1/2 Bag)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ultra Fine Sharpie-Pack",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Curved Forceps/Hemostats",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hydrogen Peroxide (full bottles)",
+		"vendorName": "Costco",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Office Printer Toner(Yellow) Brother TN221",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cat Dry Food(1/2 Container)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Pill Popper",
+		"vendorName": "Amazon",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Vacuum Filters for groom shop",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Rubber Gloves: Medium (1 Box)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Rice (Actual Bags)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 4
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Mountain Dew (Chris will do)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Easy clip ons for bleachers ",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Liquid Chlorine (David will do)",
+		"vendorName": "Mr Pool Man",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 12
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cat Wet Food (Cans)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Toilet Paper(6-pck)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Staples",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Pens (45ct. pack)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks - pretzels (1/2 container)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cable for dog doors(1/4 roll)",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Rat poison",
+		"vendorName": "Farm Supply",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Roll of linoleum flooring for cages (David will do)",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tub Hose Sprayers",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Decaf Coffee(K-Cups)",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Clear Tape",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cotton Balls (full bags)",
+		"vendorName": "Walmart",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Oats Fur Coat Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ziplock Bags: Sandwich size(1 Box)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Laundry Soap(1/2 Used Container)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Sprite",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chris printer yellow 131 A",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Black Sharpies-box",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Highlighters-pack",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Acid magic ",
+		"vendorName": "Ace Hardware",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Coffee Cups(Actual Cups)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 30
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Water Cups( Actual Cups)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Citrus Plus Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hot Dogs Pack",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Windex (gallon)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Candy- Fruit gummy kind",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Dr Pepper (Chris will do)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chicken Broth (full box)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Bleach (gallons)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chris printer black 131 A",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Condolence Cards-Dog",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Candy- Chocolate",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": 0,
+		"inventoryItemName": "Dry Food-Dog(50lb. bag)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "White Trash Bags",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Lysol Wipes",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "25' Hose ",
+		"vendorName": "Ace Hardware",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ash for pool (David will do) 1/2 Bag",
+		"vendorName": "Mr Pool Man",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Spare Shop Vac Filer",
+		"vendorName": "Lowes",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Deadline snail killer",
+		"vendorName": "Ace Hardware",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Candy - Gummies",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cactus Cooler (Chris will do)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Wet Food-Dog (Case)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Carabiners ",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks- Trail Mix",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Gauze Pads (full box)",
+		"vendorName": "Walmart",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cheese Wiz",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Sponges (Actual Sponges)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ear Powder",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Bandage Adhesive Tape",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Bandage Sicissors",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Digital Thermometer",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "New Skin",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Rubbing Alcohol",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Flea Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Dish Soap (gallons)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Coffee: Regular(K-Cups)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Whitening Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Cotton Swabs(box)q-tip",
+		"vendorName": "Walmart",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Receipt Paper (rolls)",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 4
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Sugar packets",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Card Stock",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Conditioner (gallons)",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 4
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hypo Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Large Band Aids( Actual Band Aids)",
+		"vendorName": "Walmart",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Surgical Dressing",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Rubber Gloves: Small",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Odor Eliminator Shampoo",
+		"vendorName": "Shampoo Lady",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Capstar-Blue box",
+		"vendorName": "Amazon",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ice Packs",
+		"vendorName": "Walmart",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Karo syrup",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Fiber Waffers (box)",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Blue Sharpies-box",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Creamer Cups",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Human Eye Wash",
+		"vendorName": "Amazon",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hose Nozzles ",
+		"vendorName": "Home Depot",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Lysol",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Terimycn",
+		"vendorName": "Amazon",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chlorahexadine Wash",
+		"vendorName": "Amazon",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Red Sharpies-Box",
+		"vendorName": "Amazon",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Large Black Trash Bags",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Bleach Sprayers",
+		"vendorName": "Ace Hardware",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Neomycin Ophthalmic Ointment",
+		"vendorName": "Amazon",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "KY Jelly",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Neosporin",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Laminate Sheets(25ct. box)",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ibprophen (1/2 Bottle)",
+		"vendorName": "Costco",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Neem Medicated Shampoo",
+		"vendorName": "Amazon",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Diet Pepsi (Chris will do)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Algae Chem (David will do) 1/2 bottle ",
+		"vendorName": "Mr Pool Man",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Swiffer",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hand Soap",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt 3XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt 2XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt L",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt M",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "T-Shirt S",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 10
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tank Top XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tank Top L",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tank Top M",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Tank Top S",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hooded Sweat Shirt 2XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hooded Sweat Shirt XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hooded Sweat Shirt L",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hooded Sweat Shirt M",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Hooded Sweat Shirt S",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Crew Neck Sweat Shirt XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Crew Neck Sweat Shirt L",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Crew Neck Sweat Shirt M",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Crew Neck Sweat Shirt S",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Lesco prosecutor weed killer ",
+		"vendorName": "Site One",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "White Board Markers",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 4
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Dog Treats",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Crew Neck Sweat Shirt 2XL",
+		"vendorName": "The Top Shop",
+		"categoryName": "Apparel",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Ziplock Bags: Gallon(1 Box)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Stamps (full pages)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Forks",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Pepsi (Chris will do)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Kitty Litter",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Toilet Bowl Cleaner (2-pack)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Label Maker Cartridge",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Gauze Wrap antimicrobial roll (white)",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Baby Wipes",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Office Printer Toner (Black) Brother TN221",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Dry Creamer",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Otter Pops(Actual Pops)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 20
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Spray Bottles - For Yards",
+		"vendorName": "Walmart",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Kitty Treats",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Pumpkin (cans)",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 5
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chicken(Frozen 6-pack)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chlorox Cleaner (gallons)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Post It Notes",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Paper Towels- 1 package",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Printer Paper (Packs)",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks-Cup of Noodles - Case",
+		"vendorName": "Costco",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks - Fruit Snacks (1/2 Box) Non- Organic",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks - granola bars (1/2 box)",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Baby Food (2pk)check locker 72",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Barn printer toner (black) TN630",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Office Printer Toner(Magenta) Brother TN221",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chris printer magenta 131 A",
+		"vendorName": "Office Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Blue Tape (full rolls)",
+		"vendorName": "Home Depot",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 3
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Non-Stick Gauze",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Clipper Cool",
+		"vendorName": "Amazon",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Chlorine tablets ",
+		"vendorName": "Mr Pool Man",
+		"categoryName": "Maintenance Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "3 gallon trash bags ",
+		"vendorName": "Walmart",
+		"categoryName": "Office Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "ID cat dry food",
+		"vendorName": "Nipomo Dog and Cat",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "ID cat wet food",
+		"vendorName": "Nipomo Dog and Cat",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": null
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Benadryl (1/2 Bottle)",
+		"vendorName": "Costco",
+		"categoryName": "Staff First Aid",
+		"minimumQuantity": 2
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "dog bows",
+		"vendorName": "Amazon",
+		"categoryName": "Groom Shop",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Snacks - Rice Krispie Treats",
+		"vendorName": "Costco",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Dog Eye Wash",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Clothes Pins",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Peanut butter ",
+		"vendorName": "Walmart",
+		"categoryName": "Kennel Supplies",
+		"minimumQuantity": 1
+	},
+	{
+		"expirationDate": null,
+		"unitCost": null,
+		"inventoryItemName": "Pedialyte",
+		"vendorName": "Walmart",
+		"categoryName": "Animal First Aid",
+		"minimumQuantity": 2
+	}
+]
