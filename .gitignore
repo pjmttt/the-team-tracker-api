@@ -6,3 +6,6 @@ maintenanceRequestImages
 dist
 application-credentials.json
 bin/
+.env
+.env.prod
+.env.test
