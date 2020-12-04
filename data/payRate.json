@@ -1,0 +1,18 @@
+[
+	{
+		"description": "Hourly",
+		"insertOnSubscribe": true
+	},
+	{
+		"description": "Salary",
+		"insertOnSubscribe": true
+	},
+	{
+		"description": "Contract",
+		"insertOnSubscribe": true
+	},
+	{
+		"description": "Commission",
+		"insertOnSubscribe": true
+	}
+]

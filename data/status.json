@@ -1,0 +1,86 @@
+[
+	{
+		"abbreviation": "T",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#8A2BE2",
+		"statusName": "Training",
+		"notifyManagerAfter": 0,
+		"managerEmailTemplate": {
+			"body": "<p>Need to focus on this area during their training!!</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>[Employee]</p>\n",
+			"subject": "Training ",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	},
+	{
+		"abbreviation": "N",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#D2691E",
+		"statusName": "Not Applicable",
+		"notifyManagerAfter": 0,
+		"managerEmailTemplate": {
+			"body": "<p>Not Applicable</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>[Employee]</p>\n",
+			"subject": "Not Applicable",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	},
+	{
+		"abbreviation": "C",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#0000FF",
+		"statusName": "Complete",
+		"notifyManagerAfter": 0,
+		"managerEmailTemplate": {
+			"body": "<p><span style=\"font-size:28px\">Tell [Employee]&nbsp;good job today!&nbsp; It may make there day!</span></p>\n\n<p>&nbsp;</p>\n\n<h2 style=\"font-style:italic\">ENCOURAGMENT</h2>\n\n<h2 style=\"font-style:italic\">IS THE MOST</h2>\n\n<h2 style=\"font-style:italic\">POWERFUL TOOL</h2>\n\n<h2 style=\"font-style:italic\">YOU HAVE!</h2>\n\n<p><span style=\"font-size:9px\">Chris Consolo</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+			"subject": "[Employee] Kicking some butt!",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	},
+	{
+		"abbreviation": "U",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#800080",
+		"statusName": "Unsatisfactory",
+		"notifyManagerAfter": 3,
+		"managerEmailTemplate": {
+			"body": "<p>Check [Employee] is staying on track with subtask [Subtasks]&nbsp;to see if sit down is needed!</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+			"subject": "May need to have sit down",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	},
+	{
+		"abbreviation": "S",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#FF0000",
+		"statusName": "Strike",
+		"notifyManagerAfter": 1,
+		"managerEmailTemplate": {
+			"body": "<p>This staff got a strike!</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>[Employee]</p>\n",
+			"subject": "Some one got a strike",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	},
+	{
+		"abbreviation": "I",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#008000",
+		"statusName": "Incomplete",
+		"notifyManagerAfter": 3,
+		"managerEmailTemplate": {
+			"body": "<p>Talk with management about [Employee] and check stauses to see if not being consistant with Mission Statement</p>\n\n<p>About Subtask [Subtasks]</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+			"subject": "Need to Have a Talk with [Employee] for same incomplete task!",
+			"templateType": 1,
+			"bodyText": null
+		},
+		"insertOnSubscribe": true
+	}
+]

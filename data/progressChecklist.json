@@ -1,0 +1,801 @@
+[
+	{
+		"items": [
+			{
+				"sequence": 1,
+				"itemDescription": "can do all social side am duties"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "knows how to update med board each morning"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "thoroughly checks pets belongings for mistakes and missing food related items while making food and reports findings to shot caller"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "double checks all meds are on med board and in med binder.  notifies shot caller of any findings"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "can independently, correctly, thoroughly and efficiently set entire facility as well as correctly pull belongings of departing dogs being sure mark of each belonging on run card"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "can independently, correctly, thoroughly and efficiently hang arrival run cards being sure to initial feed cards, label bowls and update med board and binder"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "knows how to update pet files in kennel connection"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "can safely perform a new dog evaluation"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "dog gurus 201 module 1"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "dog gurus 201 module 2"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "dog gurus 201 module 3"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "dog gurus 201 module 4"
+			}
+		],
+		"checklistName": "Kennel Tech Level 3 (Social Side)"
+	},
+	{
+		"items": [
+			{
+				"sequence": 1,
+				"itemDescription": "back runner am duties"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "double checks all meds are accurate and on med board and in med binder"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "knows how to spray late pick up kennels"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "knows how to do pool parties as well as make video and post it correctly"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "independently assists office when needed in a timely manner"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "helps lead new staff when needed"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "knows how, when to do final spray"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "knows how to do all lunches and mid day meds"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "knows how do quality control thoroughly and safely "
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "dog gurus 201 module 5"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "dog gurus 201 module 6"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "dog gurus 201 module 7"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "dog gurus 201 module 8"
+			}
+		],
+		"checklistName": "Kennel Tech Level 4 (Back Runner)"
+	},
+	{
+		"items": [
+			{
+				"sequence": 24,
+				"itemDescription": "dog gurus module 6"
+			},
+			{
+				"sequence": 25,
+				"itemDescription": "dog gurus module 7"
+			},
+			{
+				"sequence": 26,
+				"itemDescription": "dog gurus module 8"
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "can brush small long hair dog"
+			},
+			{
+				"sequence": 16,
+				"itemDescription": "can bath large short hair dog"
+			},
+			{
+				"sequence": 17,
+				"itemDescription": "can brush large short hair dog"
+			},
+			{
+				"sequence": 18,
+				"itemDescription": "can bath large long hair dog"
+			},
+			{
+				"sequence": 19,
+				"itemDescription": "can brush large long hair dog"
+			},
+			{
+				"sequence": 20,
+				"itemDescription": "knows how to restock little dog area"
+			},
+			{
+				"sequence": 21,
+				"itemDescription": "knows how to deep clean little dog area"
+			},
+			{
+				"sequence": 22,
+				"itemDescription": "dog gurus module 4"
+			},
+			{
+				"sequence": 23,
+				"itemDescription": "dog gurus module 5"
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "can do little dog am duties correctly "
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "knows how to correctly and independently put naps in"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "can administer medications correctly, thoroughly and safely"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "can do wellness check correctly, thoroughly and safely"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "can do cat am duties"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "can do cat pm duties - MUST LEARN EVEN THOUGH OFFICE USUALLY DOES"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "is aware and responds to radio requests for receiving and delivery of pets from customers"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "knows how to deliver dog to customer"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "knows how to receive dog from customer"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "can thoroughly complete check out process for a dog"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "can thoroughly complete check out process for a cat"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "can bath small short hair dog"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "can brush small short hair dog"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "can bath small long hair dog"
+			}
+		],
+		"checklistName": "Kennel Tech Level 2 (Little Dogs)"
+	},
+	{
+		"items": [
+			{
+				"sequence": 14,
+				"itemDescription": "Customer Service Training"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "Returning Customer Phone Calls"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "Properly answering Phone Calls"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "Restocking the Beverage area"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Cleaning the Bathroom"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "Mopping the Ofiice"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "Sweeping the Office"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "Labeling Belonging"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Checking Voice Mails"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Checking E-mails"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Properly Filling out a Run Card"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Properly Filling out a Food Card"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Can Check a Pet Out Kennel Connection"
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "Can Check in a Pet Using Kennel Connection"
+			}
+		],
+		"checklistName": "Kennel Tech Level 5 (Front Runner)"
+	},
+	{
+		"items": [
+			{
+				"sequence": 16,
+				"itemDescription": "Dog Gurus 201 Module 8"
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "Dog Gurus 201 Module 7"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "Dog Gurus 201 Module 6"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "Dog Gurus 201 Module 5"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "Dog Gurus 201 Module 4"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "Dog Gurus 201 Module 3"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Dog Gurus 201 Module 2"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "Dog Gurus 201 Module 1"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "Dog Gurus Module 8"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "Dog Gurus Module 7"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Dog Gurus Module 6"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Dog Gurus Module 5"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Dog Gurus Module 4"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Dog Gurus Module 3"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Dog Gurus Module 2"
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "Dog Gurus Module 1"
+			}
+		],
+		"checklistName": "Modules Check List"
+	},
+	{
+		"items": [
+			{
+				"sequence": 21,
+				"itemDescription": "Dog Gurus Module 8"
+			},
+			{
+				"sequence": 20,
+				"itemDescription": "Dog Gurus Module 7"
+			},
+			{
+				"sequence": 19,
+				"itemDescription": "Dog Gurus Module 6"
+			},
+			{
+				"sequence": 18,
+				"itemDescription": "Dog Gurus Module 5"
+			},
+			{
+				"sequence": 17,
+				"itemDescription": "Dog Gurus Module 4"
+			},
+			{
+				"sequence": 16,
+				"itemDescription": "Dog Gurus Module 3"
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "Dog Gurus Module 2"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "Dog Gurus Module 1"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "Knows what tools to use for each type of coat"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "Knows how to properly use a muzzle"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "Knows how to clean up after a self bather"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Knows how to set up for a self bather"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "Knows how to do laundry"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "Knows how to locate bathing dogs"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "Knows how to do end of day cleaning"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Know how to use quick stop"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Knows how to clean ears properly"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Can clip nails without assistance"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Can thoroughly brush a short haired dog"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Can bathe large short hair dog"
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "Can bathe small short hair dog"
+			}
+		],
+		"checklistName": "Bather Level 1"
+	},
+	{
+		"items": [
+			{
+				"sequence": 5,
+				"itemDescription": "Knows when you can continue grooming a dog and when you need to quit"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Knows how to take grooming instructions from a customer"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Knows how to pre-shave a dog"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Knows how to trim feet"
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "Knows how to do Sani cuts"
+			}
+		],
+		"checklistName": "Groomer Apprentice"
+	},
+	{
+		"items": [
+			{
+				"sequence": 1,
+				"itemDescription": "Knows how to do breed cuts"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Knows how to do full body hair cuts"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Knows how to call owners for instructions"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Knows how to call owners for issues"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Knows Lucky Dog first aid procedures and protocols"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Can do an Anal Gland expression"
+			}
+		],
+		"checklistName": "Groomer"
+	},
+	{
+		"items": [
+			{
+				"sequence": 25,
+				"itemDescription": "Turn everything off, lock all the doors and gates and leave for the day"
+			},
+			{
+				"sequence": 24,
+				"itemDescription": "Print out next day arrival and departure sheet and finish any loose ends."
+			},
+			{
+				"sequence": 23,
+				"itemDescription": "Move any daycare dogs that are still in yards to the late pick up kennels as they become available"
+			},
+			{
+				"sequence": 22,
+				"itemDescription": "Do a final walk thru checking the med binder, gates, latches, blankets/beds, buckets and hoses.  Close up the barn making sure the hoses and fans are off."
+			},
+			{
+				"sequence": 21,
+				"itemDescription": "Excuse staff at 5pm for the day and finish any loose ends that may not have been able to have been finished due to time."
+			},
+			{
+				"sequence": 1,
+				"itemDescription": "Open office, turn on computers and security camera monitor"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Squeegee Puddles and do court yard poop check "
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Go to little dogs and check on them. Make sure all departing dogs who are supposed to get a bath are on the sheet."
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Unlock gates as you go"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Unlock and open the barn, turn on the barn computer. Make sure all dogs who are supposed to get a bath are on the list."
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Turn on the lights and fans in the barn and do a walk through checking on all the dogs as you go. Make sure to turn on the water to the hose and turn off the heater/ac"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "Head to the cocker barn and collect the buckets you need for the social and non social yards"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "Turn on the social side hose. Put buckets into all the social yards and fill with water"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "Put the buckets into the senior yard and then head to the non social side placing buckets and filling as you go.  Turn on the non social side hose."
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Move all early drop offs daycare dogs into yards while you are working on placing buckets"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "Receive from customers any early drop off dogs that arrive while you are placing bucket"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "Head into office and check the one on one binder to see if any dogs who are having baths in there and make sure there is a note for the bathers on the bath list"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "Print the bath list"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "Greet staff as they arrive and let them know about any important information they need to know."
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "Assist the office staff with the morning rush making notes on: issues being reported, new dog evaluations, or special 1 on 1 dogs that need a friend."
+			},
+			{
+				"sequence": 16,
+				"itemDescription": "Check on all the staff during their morning duties and lead them thru tasks that they are doing wrong so they know the proper way of doing them."
+			},
+			{
+				"sequence": 17,
+				"itemDescription": "Make sure all day employees are taking lunches when they are supposed to"
+			},
+			{
+				"sequence": 18,
+				"itemDescription": "Check in with staff to see what has been accomplished and what needs your attention, don't forget to check in on the groom shop as well."
+			},
+			{
+				"sequence": 19,
+				"itemDescription": "Help where there is need to make sure everything stays on track to begin pm duties."
+			},
+			{
+				"sequence": 20,
+				"itemDescription": "Assist office with the afternoon rush. Instruct and make notes of any issues that may be discovered while putting away dogs."
+			}
+		],
+		"checklistName": "Shot Caller Checklist"
+	},
+	{
+		"items": [
+			{
+				"sequence": 1,
+				"itemDescription": "Can bathe a small long haired dog"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "Can bathe a large long haired dog"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "Can thoroughly brush a long hair dog"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "Can thoroughly brush a shedding dog"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "Can thoroughly brush a thick undercoated dog"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "Can properly demat manageable mats from dogs coats"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "Knows how to deep clean the groom shop"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "Knows how to update the supplies list"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "Knows how to enter prices"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Knows how to determine prices for new dogs"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "Knows how to layer brush a dog"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "Knows when to demat or shave out mats"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "Knows how to look up grooming history"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "Dog Gurus 201 Module 1"
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "Dog Gurus 201 Module 2"
+			},
+			{
+				"sequence": 16,
+				"itemDescription": "Dog Gurus 201 Module 3"
+			},
+			{
+				"sequence": 17,
+				"itemDescription": "Dog Gurus 201 Module 4"
+			},
+			{
+				"sequence": 18,
+				"itemDescription": "Dog Gurus 201 Module 5"
+			},
+			{
+				"sequence": 19,
+				"itemDescription": "Dog Gurus 201 Module 6"
+			},
+			{
+				"sequence": 20,
+				"itemDescription": "Dog Gurus 201 Module 7"
+			},
+			{
+				"sequence": 21,
+				"itemDescription": "Dog Gurus 201 Module 8"
+			}
+		],
+		"checklistName": "Bather Level 2"
+	},
+	{
+		"items": [
+			{
+				"sequence": 1,
+				"itemDescription": "complete w-4 form"
+			},
+			{
+				"sequence": 2,
+				"itemDescription": "complete i-9 form"
+			},
+			{
+				"sequence": 3,
+				"itemDescription": "read and sign employee hand book"
+			},
+			{
+				"sequence": 4,
+				"itemDescription": "read and sign bringing your dog to work form"
+			},
+			{
+				"sequence": 5,
+				"itemDescription": "how and where to enter for work"
+			},
+			{
+				"sequence": 6,
+				"itemDescription": "go over time click - logging in, messages, over time, sick pay"
+			},
+			{
+				"sequence": 7,
+				"itemDescription": "go over parking policy"
+			},
+			{
+				"sequence": 9,
+				"itemDescription": "cell phone use"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "breaks - snacks - water - coffee"
+			},
+			{
+				"sequence": 11,
+				"itemDescription": "communication log"
+			},
+			{
+				"sequence": 12,
+				"itemDescription": "radio language"
+			},
+			{
+				"sequence": 13,
+				"itemDescription": "go over The Team Tracker - logging in, notifications, daily duties, comments, schedule, trades, paper schedule, time offs, availability"
+			},
+			{
+				"sequence": 14,
+				"itemDescription": "AM duties SOP"
+			},
+			{
+				"sequence": 15,
+				"itemDescription": "rounds"
+			},
+			{
+				"sequence": 16,
+				"itemDescription": "PM duties SOP"
+			},
+			{
+				"sequence": 17,
+				"itemDescription": "dog gurus module 1"
+			},
+			{
+				"sequence": 18,
+				"itemDescription": "dog gurus module 2"
+			},
+			{
+				"sequence": 19,
+				"itemDescription": "dog gurus module 3"
+			},
+			{
+				"sequence": 20,
+				"itemDescription": "doing 1 on 1 time - correctly, safely and thoroughly"
+			},
+			{
+				"sequence": 21,
+				"itemDescription": "doing laundry correctly"
+			},
+			{
+				"sequence": 22,
+				"itemDescription": "washing dishes correctly"
+			},
+			{
+				"sequence": 23,
+				"itemDescription": "washing buckets correctly"
+			},
+			{
+				"sequence": 24,
+				"itemDescription": "bleaching yards correctly"
+			},
+			{
+				"sequence": 8,
+				"itemDescription": "go over when to work - logging in, trades, schecule, paper schedule, time offs"
+			},
+			{
+				"sequence": 10,
+				"itemDescription": "Proper Leash handling and plan if can't get agressive, fearful, or resistant dog"
+			},
+			{
+				"sequence": 25,
+				"itemDescription": "knows where all trashes are and when and how to change them all out as well as when main trashes need to go out to be picked up"
+			},
+			{
+				"sequence": 26,
+				"itemDescription": "understands when and how to complete general duties"
+			}
+		],
+		"checklistName": "Kennel Tech Level 1 (Non-Social Side)"
+	}
+]

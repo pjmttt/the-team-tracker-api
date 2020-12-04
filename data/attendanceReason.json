@@ -1,0 +1,32 @@
+[
+	{
+		"reasonName": "Paid Day",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#008000",
+		"insertOnSubscribe": true
+	},
+	{
+		"reasonName": "Late",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#8A2BE2",
+		"insertOnSubscribe": true
+	},
+	{
+		"reasonName": "Left Early",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#D2691E",
+		"insertOnSubscribe": true
+	},
+	{
+		"reasonName": "No Show",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#FF0000",
+		"insertOnSubscribe": true
+	},
+	{
+		"reasonName": "Call In",
+		"textColor": "#FFFFFF",
+		"backgroundColor": "#87CEFA",
+		"insertOnSubscribe": true
+	}
+]

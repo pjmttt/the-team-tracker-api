@@ -1,0 +1,32 @@
+[
+	{
+		"domain": "mms.att.net",
+		"carrierName": "AT&T",
+		"insertOnSubscribe": true
+	},
+	{
+		"domain": "vzwpix.com",
+		"carrierName": "Verizon Wireless",
+		"insertOnSubscribe": true
+	},
+	{
+		"domain": "tmomail.net",
+		"carrierName": "T-Mobile",
+		"insertOnSubscribe": true
+	},
+	{
+		"domain": "pm.sprint.com",
+		"carrierName": "Sprint",
+		"insertOnSubscribe": true
+	},
+	{
+		"domain": "vmpix.com",
+		"carrierName": "Virgin",
+		"insertOnSubscribe": true
+	},
+	{
+		"domain": "mymetropcs.com",
+		"carrierName": "Metro",
+		"insertOnSubscribe": true
+	}
+]
